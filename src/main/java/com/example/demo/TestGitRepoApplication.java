@@ -10,7 +10,6 @@ public class TestGitRepoApplication {
 		System.out.println("Application starting...");
 		SpringApplication.run(TestGitRepoApplication.class, args);
 		System.out.println("Application has been started");
-		System.out.println("Application has been started");
 	}
 
 }
