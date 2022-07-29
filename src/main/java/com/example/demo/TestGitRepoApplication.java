@@ -11,6 +11,7 @@ public class TestGitRepoApplication {
 		SpringApplication.run(TestGitRepoApplication.class, args);
 		System.out.println("Application has been started");
 		System.out.println("Application has been started");
+		System.out.println("Application has been started");
 	}
 
 }
